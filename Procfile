@@ -1,0 +1,1 @@
+web: gunicorn DevSkyrim.wsgi --log-file -
